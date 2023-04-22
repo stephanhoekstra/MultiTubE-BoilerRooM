@@ -29,3 +29,10 @@ You're going to need
    2. Remove the micro sd card
 4. Insert the mircro sd card into your sd card adapter/read and access it from the computer.
 5. Make sure the sd card has been formatted (new cards only)
+6. Install rasberry pi os (lite, no desktop) using raspberry pi imager
+   1. configure the OS settings: 
+      1. hostname: boilercam.local
+      2. Enable SSH true
+      3. username: pi
+      4. password: pi 
+7. 
